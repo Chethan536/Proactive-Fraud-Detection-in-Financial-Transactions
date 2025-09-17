@@ -113,7 +113,8 @@ We applied **data cleaning, feature engineering, and model development** (Logist
 👤 **Chethan Vakiti**
 
 * Data Science Enthusiast | Skilled in Python, SQL, Machine Learning, Power BI
-* [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/chethan-vakiti/)) | [GitHub]([https://github.com](https://github.com/Chethan536))
+* [LinkedIn]([https://www.linkedin.com/in/chethan-vakiti/])
+* [GitHub]([https://github.com/Chethan536])
 
 ---
 
